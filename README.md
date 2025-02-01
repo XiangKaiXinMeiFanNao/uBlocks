@@ -167,29 +167,4 @@ If you ever want to contribute something, think about the people working hard to
 
 [Nicole Rolls]: https://github.com/nicole-ashley
 
-<!---------------------------------[ Internal ]-------------------------------->
 
-[Manual Installation]: https://github.com/gorhill/uBlock/tree/master/dist#install
-[Extended Syntax]: https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#extended-syntax
-[Privacy Policy]: https://github.com/gorhill/uBlock/wiki/Privacy-policy
-[uBO Filters]: https://github.com/uBlockOrigin/uAssets/tree/master/filters
-[Permissions]: https://github.com/gorhill/uBlock/wiki/Permissions
-[Commit Rate]: https://github.com/gorhill/uBlock/commits/master
-[Works Best]: https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox
-[Deployment]: https://github.com/gorhill/uBlock/wiki/Deploying-uBlock-Origin
-[Blocking]: https://github.com/gorhill/uBlock/wiki/Blocking-mode
-[Releases]: https://github.com/gorhill/uBlock/releases
-[Issues]: https://github.com/uBlockOrigin/uBlock-issues/issues
-[Beta]: https://github.com/gorhill/uBlock/blob/master/dist/README.md#for-beta-version
-[Wiki]: https://github.com/gorhill/uBlock/wiki
-
-<!----------------------------------[ Badges ]--------------------------------->
-
-[Badge Localization]: https://d322cqt584bo4o.cloudfront.net/ublock/localized.svg
-[Badge Commits]: https://img.shields.io/github/commit-activity/m/gorhill/ublock?label=Commits
-[Badge Mozilla]: https://img.shields.io/amo/rating/ublock-origin?label=Firefox
-[Badge License]: https://img.shields.io/badge/License-GPLv3-blue.svg
-[Badge Chrome]: https://img.shields.io/chrome-web-store/rating/cjpalhdlnbpafiamejdnhcphjbkeiagm?label=Chrome
-[Badge Edge]: https://img.shields.io/badge/dynamic/json?label=Edge&color=brightgreen&query=%24.averageRating&suffix=%2F%35&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fodfafepnkmbhccpbejgmiehpchacaeak
-[Badge Issues]: https://img.shields.io/github/issues/uBlockOrigin/uBlock-issues
-[Badge NPM]: https://img.shields.io/npm/v/@gorhill/ubo-core
